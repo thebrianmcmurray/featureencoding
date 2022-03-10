@@ -2,6 +2,13 @@
 
 This is the analysis that I performed as part of my final project for my Master's degree in Data Analytics. The project was to compare different methods of encoding categorical features with high cardinality. For a full explanation of the project, please refer to the Feature Encoding Analysis.pdf file.
 
+These encoding methods will be tested: 
+- Multiple Correspondence Analysis (MCA)
+- K-Modes clustering
+- James Stein target encoding
+- M-Measure encoding
+- CatBoost encoding
+
 ## Files
 - **Feature Encoding Analysis.pdf**: The paper I wrote for this analysis. It was written in LaTeX.
 - **Housing Market Analysis.ipynb**: The Python notebook used to perform the analysis and generate various charts and tables used in the paper.
